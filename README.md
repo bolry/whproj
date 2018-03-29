@@ -1,2 +1,2 @@
-# Project for easy seting up module and using common GMock testing framework
-Project with modules and one main for testing
+# CMake demo project with at least two modules
+Project for easy seting up module and using common GMock testing framework
